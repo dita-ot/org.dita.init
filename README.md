@@ -9,7 +9,7 @@ Plug-in defines a DITA-OT init projects:
 Run the plug-in installation command:
 
 ```shell
-dita install org.dita.ini
+dita install org.dita.init
 ```
 
 See [plug-in registry][registry] for more information.
