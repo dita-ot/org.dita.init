@@ -5,8 +5,8 @@
   <body>
     <p>Welcome to your first <ph keyref="product"/>.</p>
     <p>You can add images:</p>
-    <image href="../images/raccoon-1476504_960_720.jpg" id="image_j3n_cc1_bpb" placement="break"/>
+    <image href="../images/raccoon-1476504_960_720.jpg" placement="break"/>
     <p>You can also use reusable content:</p>
-    <note conref="../reusables/reusable_components.dita#reusable_notes/reusable_note" id="note_rtg_hc1_bpb"/>
+    <note conref="../reusables/reusable_components.dita#reusable_notes/reusable_note"/>
   </body>
 </topic>
